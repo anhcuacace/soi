@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L sói</string>
+    <string name="term_text">Khi sử dụng ứng dụng này bạn sẽ được điền các thông tin cá nhân ví dụ như email hay tên tài khoản của bạn. để sử dụng ứng dụng, chúng tôi cần bạn cho phép được lưu trữ và chạy dữ liệu này</string>
+    <string name="term_age">Tôi đã trên 16 tuổi và đồng ý cho ứng dụng sử dụng thông tin cá nhân</string>
+    <string name="term_check">tôi đã đọc và dồng ý với các điều khoản và điều kiện và chính sách bảo mật</string>
+    <string name="confirm">Chấp Nhận</string>
+    <string name="feedback_term">đóng góp điều khoản</string>
+</resources>

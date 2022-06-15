@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072889642397",
+    "project_id": "project-end-of-course",
+    "storage_bucket": "project-end-of-course.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072889642397:android:a2d86a2c373782b750c374",
+        "android_client_info": {
+          "package_name": "com.tunanh.lsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072889642397-evg20c7c9ksotvn4vcbvrtnpsqe053jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2uj70Tz0eK7cD3nBZSngbZ3_BH1C7CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072889642397-evg20c7c9ksotvn4vcbvrtnpsqe053jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
